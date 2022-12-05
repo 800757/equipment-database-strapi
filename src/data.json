@@ -1,0 +1,110 @@
+[
+    {
+        "equipmentId": 1,
+        "equipmentType": "сканер",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Лалда Жщзшш Дыыщыаоа дыаоыоэвпы",
+        "position": "saffff",
+        "email": "fhhhdhjohndoe@email.com"
+        
+      },
+
+      {
+        "equipmentId": 2,
+        "equipmentType": "ваывапывпы",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Jo",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 3,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Joh",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 4,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "John",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 5,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Doe",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 6,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Jn Doe",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 7,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Joe",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 8,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "J",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+        
+      },
+
+      {
+        "equipmentId": 9,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Jo",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 10,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Joh",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 11,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "John",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 12,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Doe",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      },
+      {
+        "equipmentId": 13,
+        "equipmentType": "Printer",
+        "equipmentName": "HP LAser get",
+        "employeeName": "Jn Doe",
+        "position": "Frontend Developer",
+        "email": "johndoe@email.com"
+      }
+  ]
