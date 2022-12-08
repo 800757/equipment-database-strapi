@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/equipment-database-strapi/static/css/main.208abc1e.css",
+    "main.js": "/equipment-database-strapi/static/js/main.f6e0ff7f.js",
+    "static/js/787.4d59e544.chunk.js": "/equipment-database-strapi/static/js/787.4d59e544.chunk.js",
+    "index.html": "/equipment-database-strapi/index.html",
+    "main.208abc1e.css.map": "/equipment-database-strapi/static/css/main.208abc1e.css.map",
+    "main.f6e0ff7f.js.map": "/equipment-database-strapi/static/js/main.f6e0ff7f.js.map",
+    "787.4d59e544.chunk.js.map": "/equipment-database-strapi/static/js/787.4d59e544.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208abc1e.css",
+    "static/js/main.f6e0ff7f.js"
+  ]
+}
